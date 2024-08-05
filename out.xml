@@ -1,0 +1,220 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+	<Elements>
+		<Element>ICPUrl</Element>
+		<ID>https://qa.intellechartbeta.net/Eye</ID>
+		<Value>qa.intellechartbeta.net/Eye/</Value>
+	</Elements>
+	<Elements>
+		<Element>PracticeName</Element>
+		<ID>#ctl00_cphMainBody_ui_TxtBxPractice</ID>
+		<Value>Practice1</Value>
+	</Elements>
+	<Elements>
+		<Element>UserName</Element>
+		<ID>#ctl00_cphMainBody_ui_TxtBxUsername</ID>
+		<Value>mdiadmin</Value>
+	</Elements>
+	<Elements>
+		<Element>Password</Element>
+		<ID>#ctl00_cphMainBody_ui_TxtBxPassword</ID>
+		<Value>vNJxmO@55kGuTQJS</Value>
+	</Elements>
+	<Elements>
+		<Element>LoginButton</Element>
+		<ID>Login</ID>
+	</Elements>
+	<Elements>
+		<Element>SubmitButton</Element>
+		<ID>Submit</ID>
+		<Value />
+	</Elements>
+	<Elements>
+		<Element>PatientSearchText</Element>
+		<ID>#ui_TxtBxPatientSearch</ID>
+		<Value>Auth, Automation</Value>
+	</Elements>
+	<Elements>
+		<Element>DropAreaTable</Element>
+		<ID>table[id='DropArea']</ID>
+		<Value />
+	</Elements>
+	<Elements>
+		<Element>LoadingIndicator</Element>
+		<ID>[id='loading_indicator'] div.cdk-overlay-container</ID>
+		<Value />
+	</Elements>
+	<Elements>
+		<Element>PracticeDropdown</Element>
+		<ID>[Data-Qa='practiceLogin_practice']</ID>
+		<Value />
+	</Elements>
+	<Elements>
+		<Element>LocationDropdown</Element>
+		<ID>[data-qa='practiceLogin_location']</ID>
+		<Value>ASC</Value>
+	</Elements>
+	<Elements>
+		<Element>DepartmentDropdown</Element>
+		<ID>[data-qa='practiceLogin_department']</ID>
+		<Value>General</Value>
+	</Elements>
+	<Elements>
+		<Element>ClosePopupWindow</Element>
+		<ID>div.walkme-to-remove button svg</ID>
+		<Value />
+	</Elements>
+	<Elements>
+		<Element>PatientSearchTextBox</Element>
+		<ID>#ui_TxtBxPatientSearch</ID>
+		<Value>Automation, Asc</Value>
+	</Elements>
+	<Elements>
+		<Element>PatientSearchResult</Element>
+		<ID>#patientSearchResults</ID>
+		<Value />
+	</Elements>
+	<Elements>
+		<Element>PatientSearchIcon</Element>
+		<ID>[data-qa='workflow_patientSearchIcon']</ID>
+		<Value />
+	</Elements>
+	<Elements>
+		<Element>IntelleChartProButton</Element>
+		<ID>[data-qa='summary_openIntelleChartPro']</ID>
+		<Value />
+	</Elements>
+	<Elements>
+		<Element>PatientSummaryNavigationBar</Element>
+		<ID>ul.navbar-nav</ID>
+		<Value />
+	</Elements>
+	<Elements>
+		<Element>FAndO_BtnActiveBookings</Element>
+		<ID>div[role="button"]:has-text("Active Bookings")</ID>
+		<Value />
+	</Elements>
+	<Elements>
+		<Element>FAndO_LblFilter</Element>
+		<ID>[aria-label="Filter"]</ID>
+		<Value>BKG004973DE02106</Value>
+	</Elements>
+	<Elements>
+		<Element>FAndO_LblFilterBookingNumberChangeDateBookingCreationDateEnquiryNumberCustomerButtonRole</Element>
+		<ID>text=Filter Booking Number Change date Booking Creation Date Enquiry Number Customer &gt;&gt; button[role="button"]</ID>
+		<Value />
+	</Elements>
+	<Elements>
+		<Element>FAndO_LblBookingNumberbokingNumberRefChangeDateBookingCreationDateEnquiryNumbeAriaLabel</Element>
+		<ID>text=Booking NumberBoking number ref. Change date Booking Creation Date Enquiry Numbe &gt;&gt; [aria-label="Chassis Number"]</ID>
+		<Value />
+	</Elements>
+	<Elements>
+		<TestCaseNumber>MaterialVerification</TestCaseNumber>
+		<Element>MaterialVerificationUrl0</Element>
+		<ID>https://login.microsoftonline.com/624a95d9-8c90-4097-95cc-1f953608f9c4/wsfed?wtrealm=spn%3a00000015-0000-0000-c000-000000000000&amp;wctx=WsFedOwinState%3dAQAAANCMnd8BFdERjHoAwE_Cl-sBAAAAjaR3wUFCwEuFRdoGabD54AAAAAACAAAAAAAQZgAAAAEAACAAAACnPml0Z6_gi-n38lssocYXOTRE1ZZTChEV_4DSB2GQ0QAAAAAOgAAAAAIAACAAAAC8RJmCpHnrqkIz3DCuEpcSBTNLjIBY_IBIprG9Udo-ElAAAAAm-YlbaSCbjDiChlGdd0aHKRn9Nc6KGIp5GJQn6MQnwYxbTP_zZna1P8AnsvJ5K4A29tEpARvf_2jN68e5K5cigIvN9qX7RZX3tX4nRCwASEAAAADuPQ0H1532AOMjiGJuZmyiw9aq7CtDeYnp5QVdcVXcFfuRv0DZe_RmZ5OHWIWOohXgBMKa3qm0RvH-SFlc_0CH&amp;wa=wsignin1.0&amp;wreply=https%3a%2f%2freuat01.sandbox.operations.dynamics.com%2f</ID>
+		<Value />
+	</Elements>
+	<Elements>
+		<TestCaseNumber>MaterialVerification</TestCaseNumber>
+		<Element>MaterialVerificationUrl1</Element>
+		<ID>https://login.microsoftonline.com/624a95d9-8c90-4097-95cc-1f953608f9c4/wsfed?wtrealm=spn%3a00000015-0000-0000-c000-000000000000&amp;wctx=WsFedOwinState%3dAQAAANCMnd8BFdERjHoAwE_Cl-sBAAAAjaR3wUFCwEuFRdoGabD54AAAAAACAAAAAAAQZgAAAAEAACAAAACnPml0Z6_gi-n38lssocYXOTRE1ZZTChEV_4DSB2GQ0QAAAAAOgAAAAAIAACAAAAC8RJmCpHnrqkIz3DCuEpcSBTNLjIBY_IBIprG9Udo-ElAAAAAm-YlbaSCbjDiChlGdd0aHKRn9Nc6KGIp5GJQn6MQnwYxbTP_zZna1P8AnsvJ5K4A29tEpARvf_2jN68e5K5cigIvN9qX7RZX3tX4nRCwASEAAAADuPQ0H1532AOMjiGJuZmyiw9aq7CtDeYnp5QVdcVXcFfuRv0DZe_RmZ5OHWIWOohXgBMKa3qm0RvH-SFlc_0CH&amp;wa=wsignin1.0&amp;wreply=https%3a%2f%2freuat01.sandbox.operations.dynamics.com%2f&amp;sso_reload=true</ID>
+		<Value />
+	</Elements>
+	<Elements>
+		<TestCaseNumber>MaterialVerification</TestCaseNumber>
+		<Element>MaterialVerification_LblEmailPhoneOrSkype</Element>
+		<ID>[placeholder="Email, phone, or Skype"]</ID>
+		<Value>6121-KARTIK@dealer.royalenfield.com</Value>
+	</Elements>
+	<Elements>
+		<TestCaseNumber>MaterialVerification</TestCaseNumber>
+		<Element>MaterialVerification_LblNext</Element>
+		<ID>text=Next</ID>
+		<Value />
+	</Elements>
+	<Elements>
+		<TestCaseNumber>MaterialVerification</TestCaseNumber>
+		<Element>MaterialVerification_LblPassword</Element>
+		<ID>[placeholder="Password"]</ID>
+		<Value>RE@12345</Value>
+	</Elements>
+	<Elements>
+		<TestCaseNumber>MaterialVerification</TestCaseNumber>
+		<Element>MaterialVerification_LblSignIn</Element>
+		<ID>text=Sign in</ID>
+		<Value />
+	</Elements>
+	<Elements>
+		<TestCaseNumber>MaterialVerification</TestCaseNumber>
+		<Element>MaterialVerification_LblYes</Element>
+		<ID>text=Yes</ID>
+		<Value />
+	</Elements>
+	<Elements>
+		<TestCaseNumber>MaterialVerification</TestCaseNumber>
+		<Element>MaterialVerification_BtnSales</Element>
+		<ID>div[role="button"]:has-text("Sales")</ID>
+		<Value />
+	</Elements>
+	<Elements>
+		<TestCaseNumber>MaterialVerification</TestCaseNumber>
+		<Element />
+		<ID>//*[contains(text(),'Stock Report')]</ID>
+		<Value>1.00</Value>
+	</Elements>
+	<Elements>
+		<TestCaseNumber>MaterialVerification</TestCaseNumber>
+		<Element />
+		<ID>.group_content.fill-width.layout-container.layout-horizontal.layout-horizontal-bottomalign</ID>
+		<Value>1.00</Value>
+	</Elements>
+	<Elements>
+		<TestCaseNumber>MaterialVerification</TestCaseNumber>
+		<Element />
+		<ID>#form_81_0 .formContainer .fill-width.fill-height.layout-container.layout-horizontal .rootContent .rootLayout</ID>
+		<Value>1.00</Value>
+	</Elements>
+	<Elements>
+		<TestCaseNumber>MaterialVerification</TestCaseNumber>
+		<Element>MaterialVerification_LblAvailablePhysical</Element>
+		<ID>[aria-label="Available physical"]</ID>
+		<Value />
+	</Elements>
+	<Elements>
+		<TestCaseNumber>MaterialVerification</TestCaseNumber>
+		<Element>MaterialVerification_LblAvailablePhysicalFollowingSibling::Div</Element>
+		<ID>//*[@title='Available physical']/following-sibling::div</ID>
+		<Value />
+	</Elements>
+	<Elements>
+		<TestCaseNumber>MaterialVerification</TestCaseNumber>
+		<Element />
+		<ID>//*[contains(text(),'greater than or equal')]</ID>
+		<Value>1.00</Value>
+	</Elements>
+	<Elements>
+		<TestCaseNumber>MaterialVerification</TestCaseNumber>
+		<Element />
+		<ID>//*[contains(@id,'AvailPhysical_Input_0_0_input')]</ID>
+		<Value>1.00</Value>
+	</Elements>
+	<Elements>
+		<TestCaseNumber>MaterialVerification</TestCaseNumber>
+		<Element />
+		<ID>//*[contains(text(),'Apply')]</ID>
+		<Value>1.00</Value>
+	</Elements>
+	<Elements>
+		<TestCaseNumber>MaterialVerification</TestCaseNumber>
+		<Element>MaterialVerification_LblInventsumItemidAndTabindex</Element>
+		<ID>//input[@name='InventSum_ItemId' and @tabindex='0']</ID>
+		<Value />
+	</Elements>
+	<Elements>
+		<TestCaseNumber>MaterialVerification</TestCaseNumber>
+		<Element />
+		<ID>title</ID>
+		<Value>1.00</Value>
+	</Elements>
+</DocumentElement>
